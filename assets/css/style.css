@@ -3,6 +3,9 @@
   top: 300px;
   left: 500px;
 }
+element.style {
+    background-color: aquamarine;
+}
 
 h2 {
   font-size: 50px;
